@@ -9,3 +9,6 @@ appcast and downloads over plain HTTPS without authentication.
 
 - **Update feed:** `https://github.com/adamtheturtle/coderpad-macos-releases/releases/latest/download/appcast.xml`
 - Each release attaches `coderpad-<tag>.dmg` + `appcast.xml`.
+## Security
+
+See [SECURITY.md](SECURITY.md) for vulnerability reporting.
